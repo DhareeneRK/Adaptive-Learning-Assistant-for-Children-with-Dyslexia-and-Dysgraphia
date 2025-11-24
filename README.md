@@ -1,33 +1,63 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## Adaptive Learning Assistant for Children with Dyslexia and Dysgraphia
+The Adaptive Learning Assistant is an AI-powered web platform designed to support children with dyslexia (reading disability) and dysgraphia (writing disability). It delivers personalized learning using machine learning, multi-sensory activities, speech technologies, and accessibility-focused UI to improve reading and writing outcomes.
 
-## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+## About the Project
+Children affected by learning disabilities often struggle with traditional learning systems due to non-personalized content, limited accessibility features, and lack of progress visibility. This project provides a real-time adaptive platform that:
+
+Adjusts learning difficulty using machine learning
+
+Supports reading using TTS and dyslexia-friendly formatting
+
+Enhances writing using speech-to-text, handwriting analysis, and word prediction
+
+Tracks student progress with analytics for parents and teachers
+
+The platform follows WCAG 2.1 accessibility standards and ensures COPPA & GDPR compliant data security.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+Dyslexia Support
 
-## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+✔ Customizable fonts (OpenDyslexic), spacing, colors
+✔ Text-to-speech with word highlighting
+✔ Multi-sensory phonics activities
+✔ Reading fluency and comprehension exercises
+
+Dysgraphia Support
+
+✔ Speech-to-text writing
+✔ AI-based word prediction
+✔ Computer-vision handwriting feedback
+✔ Writing templates and grammar assistance
+
+AI-Powered Adaptive Learning
+
+✔ ML model (TensorFlow) predicts optimal difficulty
+✔ Personalized learning path generation
+✔ Real-time activity performance feedback
+✔ Data-driven recommendations
+
+Progress Tracking & Dashboards
+
+✔ Student progress charts
+✔ Parent insights with recommendations
+✔ Teacher dashboard with class analytics
+✔ Achievement badges and gamification
+
+
+## Tech Stack
+| Component            | Technology                                  |
+| -------------------- | ------------------------------------------- |
+| **Frontend**         | React.js (Material UI)                      |
+| **Backend**          | Spring Boot (Java)                          |
+| **Database**         | MySQL                                       |
+| **Machine Learning** | TensorFlow (Python)                         |
+| **Speech APIs**      | Google Cloud Speech-to-Text, Text-to-Speech |
+| **Security**         | JWT, Role-based access, Encryption          |
+| **Architecture**     | REST APIs + ML Microservice                 |
+
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
-
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+<img width="1578" height="503" alt="image" src="https://github.com/user-attachments/assets/1fe12b5d-edd5-4c15-89a7-cb4d2ad1d28f" />
 
 
 ## Output
