@@ -18,8 +18,11 @@ The platform follows WCAG 2.1 accessibility standards and ensures COPPA & GDPR c
 Dyslexia Support
 
 ✔ Customizable fonts (OpenDyslexic), spacing, colors
+
 ✔ Text-to-speech with word highlighting
+
 ✔ Multi-sensory phonics activities
+
 ✔ Reading fluency and comprehension exercises
 
 Dysgraphia Support
