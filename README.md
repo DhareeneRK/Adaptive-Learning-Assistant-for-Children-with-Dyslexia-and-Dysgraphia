@@ -75,6 +75,8 @@ Progress Tracking & Dashboards
 ## Output
 
 #### Output1 - Login Page
+<img width="547" height="517" alt="image" src="https://github.com/user-attachments/assets/519057f5-6497-48cf-bade-41a5f06fc561" />
+
 
 #### Output2 - Student Dashboard
 <img width="882" height="652" alt="image" src="https://github.com/user-attachments/assets/109bfeb5-92b3-430c-a7cd-b984c559eb7d" />
